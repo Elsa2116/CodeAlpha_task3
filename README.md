@@ -1,4 +1,4 @@
-#  Image Gallery Web App
+##  Image Gallery Web App
 
 A modern and responsive image gallery web application that beautifully showcases photos in a clean, animated grid layout. Users can view, explore, and interact with high-quality images with smooth transitions and engaging visual effects.
 
